@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tareas
-subtitle: Historia Económica INT 106
+subtitle: Historia Económica
 cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
