@@ -2,15 +2,15 @@
 layout: post
 title: Bienvenida
 subtitle: Curso de Historia Económica
-cover-img: /assets/img/logo.jpg
-thumbnail-img: /assets/img/logo.png
+cover-img: /assets/img/gray.jpg
+thumbnail-img: /assets/img/logo.jpg
 share-img: /assets/img/logo.jpg
 tags: [bienvenida, lectura, tarea]
 ---
 
 ## Bienvenida a nuestro repositorio
 
-Este repositorio información del curso de Historia Económica (UMSA-FHCE-Historia, 2021).
+Este es el repositorio del curso de Historia Económica (UMSA-FHCE-Historia, 2021).
 
 ## ¿Por qué es necesario este repositorio?
 
