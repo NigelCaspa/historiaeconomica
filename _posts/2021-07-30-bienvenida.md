@@ -2,7 +2,7 @@
 layout: post
 title: Bienvenida
 subtitle: Curso de Historia Económica
-cover-img: /assets/img/gray.jpg
+cover-img: /assets/img/welcome.jpg
 thumbnail-img: /assets/img/logo.jpg
 share-img: /assets/img/logo.jpg
 tags: [bienvenida, lectura, tarea]
