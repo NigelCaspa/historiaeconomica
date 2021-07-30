@@ -25,6 +25,6 @@ Puedes continuar haciendo clic [aquí](/historiaeconomica/pdf/2020_Klein-Estudia
 
 La primera tarea consiste en hacer un *resumen* de la lectura. La fecha de presentación, el formato y más detalles están en la página [Tareas](/historiaeconomica/tareas).
 
-Finalmente, puedes empezar a explorar la [Bibliografía](bibliografia).
+Finalmente, puedes empezar a explorar la [Bibliografía](/historiaeconomica/bibliografia).
 
 Si no encuentras lago, utiliza el buscador.
