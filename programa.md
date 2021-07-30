@@ -2,11 +2,13 @@
 layout: page
 title: Programa
 subtitle: Historia Económica INT 106
-cover-img: /assets/img/welcome.jpg
-thumbnail-img: /assets/img/welcome.jpg
-share-img: /assets/img/welcome.jpg
+cover-img: /assets/img/planning.jpg
+thumbnail-img: /assets/img/planning.jpg
+share-img: /assets/img/planning.jpg
 ---
-## Índice
+Programa de la asignatura de Historia Económica (UMSA-FHCE-Historia, 2/2021). Puedes leerlo aquí o descargarlo en [pdf](/pdf/programa.pdf).
+
+# Índice
 [Generalidades](#id0)  
 [1. Presentación](#id1)  
 [2. Objetivos](#id2)  
@@ -21,7 +23,7 @@ El *Plan de Estudios de la Carrera de Historia* establece las siguientes caracte
 | **Nivel y Área de conocimiento** | Licenciatura, Quinta asignatura del Área de Interdisciplinarias con  carácter obligatorio. |
 | **Semestre**   | Octavo semestre.      |
 | **Carga horaria** | 4 periodos académicos semanales por 20 semanas: 80 horas académicas de  45 minutos. |
-| **Prerrequisitos** | Antropología Histórica INT 104 y Estadística y Demografía INT 105 ||
+| **Prerrequisitos** | Antropología Histórica INT 104 y Estadística y Demografía INT 105 |
 
 Tabla 1: *Características de la asignatura de Historia Económica INT 106.*
 
