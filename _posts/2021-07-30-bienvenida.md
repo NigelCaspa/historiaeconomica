@@ -7,9 +7,7 @@ thumbnail-img: /assets/img/welcome.jpg
 share-img: /assets/img/welcome.jpg
 tags: [bienvenida, lectura, tarea]
 ---
-
-
-Este es el repositorio del curso de Historia Económica (UMSA-FHCE-Historia, 2021).
+Bienvenido al repositorio del curso de Historia Económica (UMSA-FHCE-Historia, 2/2021).
 
 ## ¿Por qué es necesario este repositorio?
 
@@ -21,10 +19,10 @@ Aquí podrás leer y descargar el programa de la asignatura, la bibliografía y 
 
 Deberías iniciar leyendo el [Programa](/historiaeconomica/programa).
 
-Puedes continuar haciendo clic [aquí](/historiaeconomica/pdf/2020_Klein-Estudiar_Desigualdad_Historia.pdf) para descargar la lectura de nuestra primera clase y hacer la tarea.
+Puedes continuar haciendo clic [aquí](https://nigelcaspa.github.io/historiaeconomica/pdf/2013_boldizzoni-lapobrezade-clio.pdf) para descargar la lectura de nuestra primera clase y hacer la tarea.
 
 La primera tarea consiste en hacer un *resumen* de la lectura. La fecha de presentación, el formato y más detalles están en la página [Tareas](/historiaeconomica/tareas).
 
-Finalmente, puedes empezar a explorar la [Bibliografía](/historiaeconomica/bibliografia).
+Finalmente, puedes empezar a explorar la [Bibliografía](/historiaeconomica/bibliografia), que se actualizará recurrentemente.
 
-Si no encuentras lago, utiliza el buscador.
+Disfruta la lectura.
