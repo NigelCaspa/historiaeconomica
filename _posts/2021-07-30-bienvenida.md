@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bienvenida
+title: 1 Bienvenida
 subtitle: Presentación del repositorio
 cover-img: /assets/img/welcome.jpg
 thumbnail-img: /assets/img/welcome.jpg
