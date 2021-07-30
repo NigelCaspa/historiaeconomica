@@ -65,6 +65,11 @@ El *Plan de Trabajo* propone cinco unidades temáticas: una unidad de introducci
 | 2.  Colonia               | La historia regional. <br />La mano de obra y el mercado. <br />Producción y circulación de moneda. |
 | 3.  Post-Independencia    | América Latina ¿Las décadas  perdidas? <br />Bolivia en sus primeros 50 años. <br />La gran divergencia. |
 | 4.  Primera Globalización | La primera era exportadora en  América Latina. <br />Bolivia en la primera era  exportadora. <br />Temas de historia económica de  Bolivia 1825-1930. |
-| 5.  Siglos XX-XXI          | Las crisis financieras, 1929-2008. <br />La economía boliviana del siglo XX. <br />Temas de historia económica de  Bolivia 1930-2020 ||
+| 5.  Siglos XX-XXI          | Las crisis financieras, 1929-2018. <br />La economía boliviana del siglo XX. <br />Temas de historia económica de  Bolivia 1930-2020 |
 
 ## 4. Bibliografía por unidades<a name="id4"></a>
+~~~
+1. INTRODUCCIÓN
+~~~
+
+Klein, H. S. (2020). [Estudiar la desigualdad: Contribuciones de historia](https://nigelcaspa.github.io/historiaeconomica/pdf/2020_Klein-Estudiar_Desigualdad_Historia.pdf). *Historia Mexicana*, *70*(3), 1437–1743.
