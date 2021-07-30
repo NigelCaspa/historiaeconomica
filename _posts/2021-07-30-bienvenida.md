@@ -19,7 +19,7 @@ Aquí podrás leer y descargar el programa de la asignatura, la bibliografía y 
 
 ## Te invito a empezar nuestro curso
 
-Deberías iniciar leyendo el [Programa](programa.md).
+Deberías iniciar leyendo el [Programa](/historiaeconomica/programa).
 
 Puedes continuar haciendo clic [aquí](/historiaeconomica/pdf/2020_Klein-Estudiar_Desigualdad_Historia.pdf) para descargar la lectura de nuestra primera clase y hacer la tarea.
 
