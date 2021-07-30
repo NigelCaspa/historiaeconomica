@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Bienvenida
-subtitle: Repositorio del curso de Historia Económica
+subtitle: Presentación del repositorio
 cover-img: /assets/img/welcome.jpg
-thumbnail-img: /assets/img/logo.jpg
-share-img: /assets/img/logo.jpg
+thumbnail-img: /assets/img/welcome.jpg
+share-img: /assets/img/welcome.jpg
 tags: [bienvenida, lectura, tarea]
 ---
 
 
-Este es el repositorio del Curso de Historia Económica (UMSA-FHCE-Historia, 2021).
+Este es el repositorio del curso de Historia Económica (UMSA-FHCE-Historia, 2021).
 
 ## ¿Por qué es necesario este repositorio?
 
@@ -19,10 +19,12 @@ Aquí podrás leer y descargar el programa de la asignatura, la bibliografía y 
 
 ## Te invito a empezar nuestro curso
 
-Deberías inicar leyendo el [Programa](programa.md).
+Deberías iniciar leyendo el [Programa](programa.md).
 
 Puedes continuar haciendo clic [aquí](bib\2020_Klein-Estudiar_Desigualdad_Historia.pdf) para descargar la lectura de nuestra primera clase y hacer la tarea.
 
 La primera tarea consiste en hacer un *resumen* de la lectura. La fecha de presentación, el formato y más detalles están en la página [Tareas](tareas.md).
 
 Finalmente, puedes empezar a explorar la [Bibliografía](bibliografia).
+
+Si no encuentras lago, utiliza el buscador 
