@@ -14,7 +14,7 @@ author: Nigel Caspa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Inicio: "index"
+  Inicio: "https://nigelcaspa.github.io/historiaeconomica/"
   Programa: "programa"
   Bibliografía: "bibliografia"
   About us: "aboutus"
