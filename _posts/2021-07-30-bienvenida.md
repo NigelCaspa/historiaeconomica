@@ -5,7 +5,7 @@ subtitle: Presentación del repositorio
 cover-img: /assets/img/welcome.jpg
 thumbnail-img: /assets/img/welcome.jpg
 share-img: /assets/img/welcome.jpg
-tags: [bienvenida, lectura, tarea]
+tags: [bienvenida, lectura, tarea 1]
 ---
 Te damos la bienvenida al repositorio del curso de Historia Económica (UMSA-FHCE-Historia, 2/2021).
 
