@@ -14,7 +14,7 @@ Programa de la asignatura de Historia Económica (UMSA-FHCE-Historia, 2/2021). P
 [2. Objetivos](#id2)  
 [3. Unidades y subtemas](#id3)  
 [4. Evaluación](#id4)  
-[5. Cronograma](#id5)
+[5. Cronograma](#id5)  
 [6. Bibliografía](#id6)
 
 ## Generalidades
