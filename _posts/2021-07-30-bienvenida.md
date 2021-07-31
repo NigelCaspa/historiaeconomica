@@ -25,4 +25,4 @@ La primera tarea consiste en hacer un *resumen* de la lectura. La fecha de prese
 
 Finalmente, puedes empezar a explorar la [Bibliografía](/historiaeconomica/bibliografia), que se actualizará recurrentemente.
 
-Disfruta la lectura.
+Disfruta la lectura! :blush:
