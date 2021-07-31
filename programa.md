@@ -33,7 +33,7 @@ El *Plan de Estudios de la Carrera de Historia* establece las siguientes caracte
 
 La asignatura de Historia Económica se dictará en modalidad virtual. Las clases se desarrollarán los días lunes y miércoles de 16:30 a 18:00.
 
-## Presentación <a name="id1"></a>
+## 1 Presentación <a name="id1"></a>
 Mucho de lo que hoy entendemos como Historia Económica se originó después de la Segunda Guerra Mundial y su trayectoria estuvo marcada por la corriente estadounidense denominada “nueva historia económica” o “econometría”. Esta corriente debe entenderse como producto de la combinación de factores culturales, el clima intelectual y las circunstancias institucionales entre las décadas de 1950 y 1960. 
 
 En sus inicios, la “nueva historia económica” tuvo el suficiente prestigio para motivar la creación de unidades académicas independientes en las universidades occidentales en la década de 1970. Los debates tenían como protagonistas a los economistas, antes que a los profesionales en historia. De esta manera, se entiende que muchos de los esfuerzos se concentraron en la comprobación de modelos teóricos y en descubrir “leyes” del desarrollo económico.
