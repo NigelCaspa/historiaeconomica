@@ -21,4 +21,4 @@ Ficha bibliográfica:
 Boldizzoni, F. (2013). La pobreza de Clio. Crisis y renovación en el estudio de la historia. Editorial Planeta. pp. 8-31.
 ~~~
 
-Fecha de publicación de Tarea 1: 30 de julio de 2020.
+Fecha de publicación de Tarea 1: 30 de julio de 2021.
