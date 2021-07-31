@@ -9,7 +9,7 @@ share-img: /assets/img/todo.jpg
 
 ## Tarea 1
 Resumen del capítulo 1 del libro de [Boldizzoni](https://nigelcaspa.github.io/historiaeconomica/pdf/2013_boldizzoni-lapobrezade-clio.pdf) (2013).
-- Fecha y hora de entrega tope: lunes 2 de agosto, Hrs. 16:29.
+- Fecha y hora de entrega tope: lunes 2 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
