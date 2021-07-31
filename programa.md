@@ -6,7 +6,7 @@ cover-img: /assets/img/planning.jpg
 thumbnail-img: /assets/img/planning.jpg
 share-img: /assets/img/planning.jpg
 ---
-Programa de la asignatura de Historia Económica (UMSA-FHCE-Historia, 2/2021). Puedes leerlo aquí o descargarlo en [PDF](https://nigelcaspa.github.io/historiaeconomica/pdf/programa.pdf/).
+Programa de la asignatura de Historia Económica (UMSA-FHCE-Historia, 2/2021). Puedes leerlo aquí o descargarlo en [PDF](https://nigelcaspa.github.io/historiaeconomica/pdf/programa.pdf).
 
 # Índice
 [Generalidades](#id0)  
