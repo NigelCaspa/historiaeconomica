@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sobre *La pobreza de Clio* de Francesco Boldizzoni (Capítulo 1)
+title:  Resumen de "La pobreza de Clio" de Francesco Boldizzoni (Capítulo 1)
 subtitle: Carla Rueda Colque
 cover-img: /assets/img/boldizzoni.jpg
 thumbnail-img: /assets/img/boldizzoni.jpg
