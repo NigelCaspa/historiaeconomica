@@ -5,7 +5,7 @@ subtitle: Carla Rueda Colque
 cover-img: /assets/img/boldizzoni.jpg
 thumbnail-img: /assets/img/boldizzoni.jpg
 share-img: /assets/img/boldizzoni.jpg
-tags: [resumen, boldizzoni, carla rueda colque]
+tags: [Resumen, boldizzoni, Carla Rueda Colque]
 ---
 
 El principal argumento de este libro es que la Historia Económica necesita un paradigma distinto de investigación histórica, un paradigma que en lugar de someterse a la teoría económica contribuya a renovarla. Como dice Boldizzoni, si la teoría ha de fundarse en los hechos, entonces lo lógico es que sea la historia la que corrija a la teoría y no viceversa. La cuestión no es inventar ese paradigma de la nada sino aprender de las lecciones de ciertos historiadores económicos innovadores del siglo XX. Lo que encontramos en esos autores es una tercera vía entre una historia de tipo narrativo y una reducida a la condición de ciencia social aplicada.
