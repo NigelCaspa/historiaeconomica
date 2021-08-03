@@ -23,6 +23,8 @@ Scott, J. W. (2008). Género e historia. Fondo de Cultura Económica.
 
 Fecha de publicación de Tarea 2: 02 de agosto de 2021.
 
+-----------------
+
 ## Tarea 1
 Resumen del capítulo 1 del libro de [Boldizzoni](https://nigelcaspa.github.io/historiaeconomica/pdf/2013_boldizzoni-lapobrezade-clio.pdf) (2013).
 - Fecha y hora de entrega tope: lunes 2 de agosto de 2021, Hrs. 16:29.
