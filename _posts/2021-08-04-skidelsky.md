@@ -17,4 +17,6 @@ Puedes ver el video de Skidelsky haciendo clic en el enlace de esta imagen:
 Disfruta el video!
 
 ----
-El video original ha sido extraído de la página de YouTube de *New Economic Thinking*, disponible en este [link](https://www.youtube.com/watch?v=GFgrJa5X56g). Si tienes problemas para activar los subtítulos en español mira este [tutorial](https://www.youtube.com/watch?v=sEvX5Q973Nc)
+El video original ha sido extraído de la página de YouTube de *New Economic Thinking*, disponible en este [link](https://www.youtube.com/watch?v=GFgrJa5X56g). Si tienes problemas para activar los subtítulos en español mira este [tutorial](https://www.youtube.com/watch?v=sEvX5Q973Nc).
+
+[Fin](../video1.html).
