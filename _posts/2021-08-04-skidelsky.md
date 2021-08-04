@@ -2,9 +2,9 @@
 layout: post
 title:  Cómo y cómo NO hacer economía
 subtitle: Robert Skidelsky
-cover-img: /assets/img/skidelsky.JPG
-thumbnail-img: /assets/img/skidelsky.JPG
-share-img: /assets/img/skidelsky.JPG
+cover-img: /assets/img/skidelsky.jpg
+thumbnail-img: /assets/img/skidelsky.jpg
+share-img: /assets/img/skidelsky.jpg
 tags: [Video, Skidelsky, Economía]
 ---
 
