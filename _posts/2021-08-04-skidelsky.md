@@ -10,7 +10,7 @@ tags: [Video, Skidelsky, Economía]
 
 En la conferencia "Cómo y cómo no hacer economía" de INET, Robert Skidelsky sostiene que hay dos razones principales por las que los economistas deberían estudiar historia. Primero, hacer mejor Historia. Segundo, hacer mejor Economía. Si la Historia es el estudio de lo particular y la Economía de lo general, el valor de la Historia para la Economía es permitirles hacer más concretas sus generalizaciones y admitir sus límites.
 
-Puedes ver el video de la conferencia subtitulada de Skidelsky haciendo clic [aquí](https://archive.org/details/skidelsky)
+Puedes ver el video subtitulado de la conferencia de Skidelsky haciendo clic [aquí](https://archive.org/details/skidelsky)
 
 Disfruta el video!
 
