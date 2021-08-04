@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Resumen sobre El mundo del trabajo a través de las estadísticas, de Joan W. Scott
+title:  Resumen sobre "El mundo del trabajo a través de las estadísticas", de Joan W. Scott
 subtitle: Gabriel Maita Pozo
 cover-img: /assets/img/generohistoria.jpg
 thumbnail-img: /assets/img/generohistoria.jpg
