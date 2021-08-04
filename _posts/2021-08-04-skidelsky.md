@@ -12,7 +12,7 @@ En la conferencia "Cómo y cómo no hacer economía" de INET, Robert Skidelsky s
 
 Puedes ver el video de Skidelsky haciendo clic en el enlace de esta imagen:
 
-![Video de Skidelsky](/assets/img/skidelsky.jpg)(https://archive.org/details/skidelsky)
+![Video de Skidelsky](../assets/img/skidelsky.jpg))(https://archive.org/details/skidelsky)
 
 Disfruta el video!
 
