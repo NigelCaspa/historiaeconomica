@@ -12,11 +12,10 @@ En la conferencia "Cómo y cómo no hacer economía" de INET, Robert Skidelsky s
 
 Puedes ver el video de Skidelsky haciendo clic en el enlace de esta imagen:
 
-![Video de Skidelsky](/assets/img/skidelsky.JPG)(https://archive.org/details/skidelsky)
+![Video de Skidelsky](/assets/img/skidelsky.jpg)(https://archive.org/details/skidelsky)
 
 Disfruta el video!
 
 ----
 El video original ha sido extraído de la página de YouTube de *New Economic Thinking*, disponible en este [link](https://www.youtube.com/watch?v=GFgrJa5X56g). Si tienes problemas para activar los subtítulos en español mira este [tutorial](https://www.youtube.com/watch?v=sEvX5Q973Nc).
 
-[Fin](../video1.html).
