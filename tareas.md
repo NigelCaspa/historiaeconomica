@@ -7,6 +7,24 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 5
+Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2020)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf): pp. 13-59
+- Fecha y hora de entrega tope: lunes 16 de agosto de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Ficha bibliográfica: 
+Marçal, K. (2016). ¿Quién le hacía la cena a Adam Smith? Una historia de las mujeres y la economía. Debate.
+~~~
+
+Fecha de publicación de Tarea: 11 de agosto de 2021.
+
+-----------------
+
 ## Tarea 4
 Resumen del video de [Robert Skidelsky (2019)](https://nigelcaspa.github.io/historiaeconomica/2021-08-04-skidelsky/): Cómo y cómo NO hacer economía.
 - Fecha y hora de entrega tope: miércoles 11 de agosto de 2021, Hrs. 16:29.

@@ -112,6 +112,8 @@ Lofstrom, W. (2019). *La presidencia de Sucre en Bolivia*. Vicepresidencia del E
 
 Machicado Salas, C. G., & Vera Cossio, D. (2020). *Capital humano y crecimiento: El impulso de la Revolución Nacional boliviana*. Vicepresidencia del Estado Plurinacional de Bolivia / Centro de Investigaciones Sociales.
 
+Marçal, K. (2016). [¿Quién le hacía la cena a Adam Smith? Una historia de las mujeres y la economía](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf). Debate.
+
 Marichal, C. (2010). *Nueva historia de las grandes crisis financieras: Una perspectiva global, 1873-2008*. Debate.
 
 Marichal, C. (2014). *Historia mínima de la deuda externa de Latinoamérica, 1820-2010* (Primera edición). El Colegio de México.
