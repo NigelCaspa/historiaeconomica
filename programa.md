@@ -292,6 +292,3 @@ Williamson, J. G. (2013). [*El desarrollo económico mundial en perspectiva hist
 Zagalsky, P. C. (2017). Trabajo indígena, conflictos y justicia en la Villa Imperial de Potosí y su Cerro Rico, una aproximación. Virreinato del Perú, siglos XVI-XVII. Revista Historia y Justicia, 9.
 
 Zalles, F. (2018). Panorama del desarrollo de la historia económica en Bolivia. Historia Revista de la Carrera de Historia, 42, 151–174.
-
-
-Klein, H. S. (2020). [Estudiar la desigualdad: Contribuciones de historia](https://nigelcaspa.github.io/historiaeconomica/pdf/2020_Klein-Estudiar_Desigualdad_Historia.pdf). *Historia Mexicana*, *70*(3), 1437–1743.

@@ -5,7 +5,7 @@ subtitle: Jose R. Peralta
 cover-img: /assets/img/klein1.jpg
 thumbnail-img: /assets/img/klein1.jpg
 share-img: /assets/img/klein1.jpg
-tags: [Jose R. Peralta, Herbert Klein, Desigualdad, Historia Económica, China]
+tags: [Resumen, Jose R. Peralta, Herbert Klein, Desigualdad, Historia Económica, China]
 ---
 
 El aumento de la desigualdad es ahora un problema importante no sólo en los países en desarrollo y en las regiones con altos niveles de desigualdad, como América Latina, sino que también es un problema fundamental en las sociedades industriales avanzadas. La crisis financiera de 2008 nos forzó a repensar y revivir el interés en la evolución de los desequilibrios del mercado y cómo y por qué son recurrentes, lo que ha llevado a numerosos trabajos históricos de economistas que abarcan hasta un siglo o más de experiencia.
