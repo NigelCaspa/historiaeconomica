@@ -8,7 +8,7 @@ share-img: /assets/img/todo.jpg
 ---
 
 ## Tarea 5
-Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2020)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf): pp. 13-59
+Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf): pp. 13-59
 - Fecha y hora de entrega tope: lunes 16 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
