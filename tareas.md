@@ -7,6 +7,23 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 6
+Resumen del capítulo 2 del libro de [Korol y Tandeter (1999)](https://nigelcaspa.github.io/historiaeconomica/pdf/1999_Korol&Tandeter-HistoriaEconómicaAméricaLatina.pdf): Conquista y Colonización. pp. 21-57.
+- Fecha y hora de entrega tope: miércoles 18 de agosto de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Korol, Juan Carlos, y Enrique Tandeter. Historia económica de América Latina: problemas y procesos. Buenos Aires: Fondo de Cultura Económica de Argentina, 1999.
+~~~
+
+Fecha de publicación de Tarea: 16 de agosto de 2021.
+
+-----------------
+
 ## Tarea 5
 Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf): pp. 13-59
 - Fecha y hora de entrega tope: lunes 16 de agosto de 2021, Hrs. 16:29.

@@ -102,6 +102,8 @@ Klein, H. S. (2020). [Estudiar la desigualdad: Contribuciones de historia](https
 
 Kobrak, C., & Wilkins, M. (2014). *History and Financial Crisis: Lessons from the 20th century*. Routledge.
 
+Korol, Juan Carlos, y Enrique Tandeter. [Historia económica de América Latina: problemas y procesos](https://nigelcaspa.github.io/historiaeconomica/pdf/1999_Korol&Tandeter-HistoriaEconómicaAméricaLatina.pdf). Buenos Aires: Fondo de Cultura Económica de Argentina, 1999.
+
 Kuntz-Ficker, S. (2017). Latin America’s First Export Era: Reassessing Its Economic Contribution. En *The First Export Era Revisited. Reassessing its Contribution to Latin American Economies* (pp. 1–38). Palgrave Macmillan.   
 
 Langer, E. (1991). Persistencia y cambio en las comunidades indígenas del sur de Bolivia en el siglo XIX. *Data Revista del Instituto de Estudios Andinos y Amazónicos*, *1*, 61–84.
