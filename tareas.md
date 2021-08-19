@@ -7,6 +7,24 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 7
+Resumen de la introducción y capítulos 1 y 3 del libro de [Socolow (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991_socolow-losmercaderesriodelaplata.pdf): Introducción pp. 11-22; La población comerciante pp. 23-48; El comercio y las inversiones pp. 71-90.
+- Fecha y hora de entrega tope: miércoles 23 de agosto de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Socolow, S. (1999). Los mercaderes del Buenos Aires virreinal: Familia y comercio. Flores S.R.L.
+~~~
+
+Fecha de publicación de Tarea: 18 de agosto de 2021.
+
+-----------------
+
+
 ## Tarea 6
 Resumen del capítulo 2 del libro de [Korol y Tandeter (1999)](https://nigelcaspa.github.io/historiaeconomica/pdf/1999_Korol&Tandeter-HistoriaEconómicaAméricaLatina.pdf): Conquista y Colonización. pp. 21-57.
 - Fecha y hora de entrega tope: miércoles 18 de agosto de 2021, Hrs. 16:29.
