@@ -172,6 +172,9 @@ Rodríguez Ostria, G. (2015). Liberalismo, sistema monetario y economía de la p
 
 Rojas, C. (1977). *Historia financiera de Bolivia*. Editorial Universitaria de la Universidad Mayor de San Andrés.
 
+Socolow, S. (1999). *[Los mercaderes del Buenos Aires virreinal: Familia y comercio](https://nigelcaspa.github.io/historiaeconomica/pdf/1991_socolow-losmercaderesriodelaplata.pdf)*. Flores S.R.L.
+
+
 Scott, J. W. (2008). *[Género e historia](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_scott,joanh-género&historia.pdf)*. Fondo de Cultura Económica.
 
 Stern, S. J. (1984). Nuevas direcciones en la historia económica de los Andes: Un diálogo crítico con Carlos Sempat Assadourian. *HISLA Revista Latinoamericana de Historia Económica y Social*, *3*, 104–113.
