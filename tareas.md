@@ -26,7 +26,7 @@ Fecha de publicación de Tarea: 23 de agosto de 2021.
 
 ## Tarea 7
 Resumen de la introducción y capítulos 1 y 3 del libro de [Socolow (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991_socolow-losmercaderesriodelaplata.pdf): Introducción pp. 11-22; La población comerciante pp. 23-48; El comercio y las inversiones pp. 71-90.
-- Fecha y hora de entrega tope: miércoles 23 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 23 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -44,7 +44,7 @@ Fecha de publicación de Tarea: 18 de agosto de 2021.
 
 ## Tarea 6
 Resumen del capítulo 2 del libro de [Korol y Tandeter (1999)](https://nigelcaspa.github.io/historiaeconomica/pdf/1999_Korol&Tandeter-HistoriaEconómicaAméricaLatina.pdf): Conquista y Colonización. pp. 21-57.
-- Fecha y hora de entrega tope: miércoles 18 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 18 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -61,7 +61,7 @@ Fecha de publicación de Tarea: 16 de agosto de 2021.
 
 ## Tarea 5
 Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016_marcal-cena-smith.pdf): pp. 13-59
-- Fecha y hora de entrega tope: lunes 16 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 16 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -79,7 +79,7 @@ Fecha de publicación de Tarea: 11 de agosto de 2021.
 
 ## Tarea 4
 Resumen del video de [Robert Skidelsky (2019)](https://nigelcaspa.github.io/historiaeconomica/2021-08-04-skidelsky/): Cómo y cómo NO hacer economía.
-- Fecha y hora de entrega tope: miércoles 11 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 11 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -98,7 +98,7 @@ Fecha de publicación de Tarea: 09 de agosto de 2021.
 
 ## Tarea 3
 Resumen el artículo de [Herbert Klein (2020)](https://nigelcaspa.github.io/historiaeconomica/pdf/2020_Klein-Estudiar_Desigualdad_Historia.pdf): Estudiar la desigualdad, contribuciones de Historia pp. 1437-73.
-- Fecha y hora de entrega tope: lunes 9 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 9 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -119,7 +119,7 @@ Fecha de publicación de Tarea: 04 de agosto de 2021.
 ## Tarea 2
 Resumen del capítulo 6 del libro de [Joan Wallach Scott (2006)](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_scott,joanh-g%C3%A9nero&historia.pdf): El mundo del trabajo a traves de las estadísticas. La "Estadística 
 de la industria en Paris (1847-1 848)" pp. 148-177.
-- Fecha y hora de entrega tope: miércoles 4 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 4 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
@@ -137,7 +137,7 @@ Fecha de publicación de Tarea 2: 02 de agosto de 2021.
 
 ## Tarea 1
 Resumen del capítulo 1 del libro de [Boldizzoni](https://nigelcaspa.github.io/historiaeconomica/pdf/2013_boldizzoni-lapobrezade-clio.pdf) (2013).
-- Fecha y hora de entrega tope: lunes 2 de agosto de 2021, Hrs. 16:29.
+- Fecha y hora de entrega tope: 2 de agosto de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
