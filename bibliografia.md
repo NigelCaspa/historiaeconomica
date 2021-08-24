@@ -181,6 +181,8 @@ Stern, S. J. (1984). Nuevas direcciones en la historia económica de los Andes: 
 
 Tandeter, E. (1992). *Coacción y mercado: La minería de la plata en el Potosí colonial, 1692-1826*. Siglo XXI de España.
 
+Tandeter, E. (1992). ["minga y kajcha"](https://nigelcaspa.github.io/historiaeconomica/pdf/1992-tandeter-coaccion&mercado.pdf). En *Coacción y mercado: La minería de la plata en el Potosí colonial, 1692-1826*. Siglo XXI de España.
+
 Wallerstein, I. (1987). *El moderno sistema mundial. 1, La agricultura capitalista y los orígenes de la economía-mundo europea en el siglo XVI*. Siglo XXI de España Editores.
 
 Williamson, J. G. (2013). *[El desarrollo económico mundial en perspectiva histórica: Cinco siglos de revoluciones industriales, globalización y desigualdad](https://nigelcaspa.github.io/historiaeconomica/pdf/2012-williamson-el-desarrollo-economico-mundial-en-perspectiva-historica-pdf.pdf)*. Prensas de la Universidad de Zaragoza.
