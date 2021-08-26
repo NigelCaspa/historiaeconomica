@@ -5,7 +5,7 @@ subtitle: Gabriel Maita Pozo
 cover-img: /assets/img/korol-tandeter.jpg
 thumbnail-img: /assets/img/korol-tandeter.jpg
 share-img: /assets/img/korol-tandeter.jpg
-tags: [Gabriel Maita Pozo, Enrique Tendeter, Juan Carlos Korol, América Latina, Colonia]
+tags: [Gabriel Maita Pozo, Enrique Tandeter, Juan Carlos Korol, América Latina, Colonia]
 ---
 
 Korol y Tandeter realizan una evaluación de historia económica colonial en América Latina a través de tres procesos: minería, producción agrícola y textil. Ambos autores proponen estudiarlos bajo una nueva óptica en la que se pondere su relevancia para el estado colonial en América.

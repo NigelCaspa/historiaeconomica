@@ -24,6 +24,8 @@ Assadourian, C. S. (1982). *El sistema de la economía colonial: Mercado interno
 
 Bakewell, P. J. (1989). *Mineros de la Montaña Roja: El trabajo de los indios en Potosí, 1545-1650*. Alianza Editorial.
 
+Barragán, R., Villanueva, A., & Machicado, C. (Eds.). (2019). [Trabajos y trabajadores en América Latina (siglos XVI-XXI)](https://nigelcaspa.github.io/historiaeconomica/pdf/2019_trabajoytrabajadoresenamericalatina(siglosxvi-xxi).pdf). Vicepresidencia del Estado Plurinacional de Bolivia.
+
 Barragán, R. (2020). [Women in the Silver Mines of Potosí: Rethinking the History of “Informality” and “Precarity” (Sixteenth to Eighteenth Centuries)](https://nigelcaspa.github.io/historiaeconomica/pdf/2019_Rossana Barragán-women_in_the_silver_mines_of_potosi.pdf). *Int Rev of Soc His International Review of Social History*, *65*(2), 289–314.
 
 Barragán, R., Peres-Cajías, J., Mendieta, P., & Lema Garret, A. M. (2014). [La lenta reorganización de la economía](https://nigelcaspa.github.io/historiaeconomica/pdf/2015_peres-cajias-lalentareorganización.pdf). En R. Barragán, A. M. Lema Garret, & P. Mendieta, *Bolivia, su historia: Vol. V*. Coordinadora de Historia.
