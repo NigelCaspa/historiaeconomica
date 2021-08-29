@@ -23,6 +23,6 @@ Puedes continuar haciendo clic [aquí](https://nigelcaspa.github.io/historiaecon
 
 La primera tarea consiste en hacer un *resumen* de la lectura. La fecha de presentación, el formato y más detalles están en la página [Tareas](/historiaeconomica/tareas).
 
-Finalmente, puedes empezar a explorar la [Bibliografía](/historiaeconomica/bibliografia) que se actualizará con frecuencia.
+También puedes explorar la [Bibliografía](/historiaeconomica/bibliografia) y el [Blog](https://nigelcaspa.github.io/historiaeconomica/) que se actualizarán con frecuencia.
 
 Disfruta la lectura!
