@@ -7,6 +7,23 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 10
+Resumen del artículo de [Robins (2012)](https://nigelcaspa.github.io/historiaeconomica/2021-08-30-robins-hagan/): Producción y uso de mercurio en la producción colonial andina de plata: emisiones e implicaciones para la salud.
+- Fecha y hora de entrega tope: 1 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Robins, N. A., & Hagan, N. A. (2012). Mercury production and use in colonial Andean silver production: emissions and health implications. Environmental health perspectives, 120(5), 627-631.[Traducción no oficial]
+~~~
+
+Fecha de publicación de Tarea: 30 de agosto de 2021.
+
+-----------------
+
 ## Tarea 9
 Resumen del artículo de [Quiroz (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/2019_trabajoytrabajadoresenamericalatina(siglosxvi-xxi).pdf): Aprendiendo juntos: indios, negros libres y esclavos en talleres de Lima colonial pp. 281-312.
 - Fecha y hora de entrega tope: 30 de agosto de 2021, Hrs. 16:29.
