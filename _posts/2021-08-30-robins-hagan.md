@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Producción y uso de mercurio en la producción colonial andina de plata: emisiones e implicaciones para la salud
+title:  Producción y uso de mercurio en la producción colonial andina de plata. Emisiones e implicaciones para la salud
 subtitle: Nicholas A. Robins y Nicole A. Hagan
 cover-img: /assets/img/robins.jpg
 thumbnail-img: /assets/img/robins.jpg
