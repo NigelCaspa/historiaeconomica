@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/robins.jpg
 share-img: /assets/img/robins.jpg
 tags: [Nicholas A. Robins, Nicole A. Hagan, Potosí, Huancavelica, Colonia, Mercurio, mano de obra]
 ---
+
 [Clic aquí para descargar este documento en PDF]()
 
 ## Resumen
