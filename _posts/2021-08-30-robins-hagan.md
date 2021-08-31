@@ -104,6 +104,6 @@ Esta investigación fue apoyada en parte por becas del Instituto Oak Ridge de Ci
 
 Los autores declaran que no tienen intereses financieros reales o potenciales en competencia.
 
-Publicado originalmente en inglés en *Environmental Health Perspectives* • volume 120 | number 5 | May 2012 https://doi.org/10.1289/ehp.1104192
+Publicado originalmente en inglés en *Environmental Health Perspectives* • volume 120, number 5, May 2012 https://doi.org/10.1289/ehp.1104192
 
 *Esta es una traducción no oficial (No citar)
