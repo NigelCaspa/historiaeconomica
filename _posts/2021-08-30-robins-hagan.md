@@ -8,7 +8,7 @@ share-img: /assets/img/robins.jpg
 tags: [Nicholas A. Robins, Nicole A. Hagan, Potosí, Huancavelica, Colonia, Mercurio, mano de obra]
 ---
 
-[Clic aquí para descargar este documento en PDF]()
+[Clic aquí para descargar este documento en PDF](https://nigelcaspa.github.io/historiaeconomica/pdf/2012-robins-hagan-mercurio.pdf)
 
 ## Resumen
 
