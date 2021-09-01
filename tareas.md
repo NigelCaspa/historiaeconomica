@@ -7,8 +7,27 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 11
+Resumen del artículo de [Thompson (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991-thompson-economia-mora-multitud.pdf): La economía "moral" de la multitud en la Inglaterra del siglo XVIII, pp. 213-293.
+
+- Fecha y hora de entrega tope: 6 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Thompson E.P. (1991)."La economía "moral" de la multitud en la Inglaterra del siglo XVIII". En *Costumbres en común*. Editorial Crítica.
+~~~
+
+Fecha de publicación de Tarea: 1 de septiembre de 2021.
+
+-----------------
+
 ## Tarea 10
 Resumen del artículo de [Robins (2012)](https://nigelcaspa.github.io/historiaeconomica/2021-08-30-robins-hagan/): Producción y uso de mercurio en la producción colonial andina de plata: emisiones e implicaciones para la salud.
+
 - Fecha y hora de entrega tope: 1 de septiembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
 - Formato de entrega: documento Word.
