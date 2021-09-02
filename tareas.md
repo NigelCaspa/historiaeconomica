@@ -8,7 +8,7 @@ share-img: /assets/img/todo.jpg
 ---
 
 ## Tarea 11
-Resumen del artículo de [Thompson (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991-thompson-economia-mora-multitud.pdf): La economía "moral" de la multitud en la Inglaterra del siglo XVIII, pp. 213-293.
+Resumen del artículo de [Thompson (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991-thompson-economia-moral-multitud.pdf): La economía "moral" de la multitud en la Inglaterra del siglo XVIII, pp. 213-293.
 
 - Fecha y hora de entrega tope: 6 de septiembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 500 palabras.
