@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Resumen de "Aprendiendo a vivir juntos: indios, negros libres y esclavos en talleres de Lima colonial"
+title:  Resumen de "Aprendiendo a vivir juntos. indios, negros libres y esclavos en talleres de Lima colonial"
 subtitle: Gabriel Maita Pozo
 cover-img: /assets/img/quiroz.jpg
 thumbnail-img: /assets/img/quiroz.jpg
