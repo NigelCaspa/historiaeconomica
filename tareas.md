@@ -6,6 +6,23 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 12
+Resumen del artículo de [Tandeter & Wachtel (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1983-tandeter&wachtell-preciosyproducción.pdf): Precios y producción agraria. Potosí y Charcas en el siglo XVIII.
+
+- Fecha y hora de entrega tope: 8 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Tandeter, E., & Wachtel, N. (1983). Precios y producción agraria. Potosí y Charcas en el siglo XVIII. Desarrollo económico, 23(90), 197–232.
+~~~
+
+Fecha de publicación de Tarea: 6 de septiembre de 2021.
+
+-----------------
 
 ## Tarea 11
 Resumen del artículo de [Thompson (1991)](https://nigelcaspa.github.io/historiaeconomica/pdf/1991-thompson-economia-moral-multitud.pdf): La economía "moral" de la multitud en la Inglaterra del siglo XVIII, pp. 213-293.
