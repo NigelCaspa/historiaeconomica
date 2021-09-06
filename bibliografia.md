@@ -176,12 +176,13 @@ Rojas, C. (1977). *Historia financiera de Bolivia*. Editorial Universitaria de l
 
 Socolow, S. (1999). *[Los mercaderes del Buenos Aires virreinal: Familia y comercio](https://nigelcaspa.github.io/historiaeconomica/pdf/1991_socolow-losmercaderesriodelaplata.pdf)*. Flores S.R.L.
 
-
 Scott, J. W. (2008). *[Género e historia](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_scott,joanh-género&historia.pdf)*. Fondo de Cultura Económica.
 
 Stern, S. J. (1984). Nuevas direcciones en la historia económica de los Andes: Un diálogo crítico con Carlos Sempat Assadourian. *HISLA Revista Latinoamericana de Historia Económica y Social*, *3*, 104–113.
 
-Tandeter, E. (1992). *Coacción y mercado: La minería de la plata en el Potosí colonial, 1692-1826*. Siglo XXI de España.
+Tandeter, E., & Wachtel, N. (1983). [Precios y producción agraria. Potosí y Charcas en el siglo XVIII](https://nigelcaspa.github.io/historiaeconomica/pdf/1983-tandeter&wachtell-preciosyproducción.pdf). *Desarrollo económico*, 23(90), 197–232.
+
+Tandeter, E. (1992). [*Coacción y mercado: La minería de la plata en el Potosí colonial, 1692-1826*](https://3lib.net/md5/94F82382ECE0EDE94FFEF6C66BA1A8B4). Siglo XXI de España.
 
 Tandeter, E. (1992). ["minga y kajcha"](https://nigelcaspa.github.io/historiaeconomica/pdf/1992-tandeter-coaccion&mercado.pdf). En *Coacción y mercado: La minería de la plata en el Potosí colonial, 1692-1826*. Siglo XXI de España.
 
