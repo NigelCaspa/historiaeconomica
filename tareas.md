@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 ## Tarea 13
-Resumen de los capítulos de [Klein & Egerman y Coatsworth (1990)](https://nigelcaspa.github.io/historiaeconomica/pdf/1990_johnson&tandeter-economíascoloniales-precios.pdf): Precios y producción agraria. Potosí y Charcas en el siglo XVIII.
+Resumen de los capítulos de [Klein & Egerman y Coatsworth (1990)](https://nigelcaspa.github.io/historiaeconomica/pdf/1990_johnson&tandeter-economíascoloniales-precios.pdf): Métodos y significados en la historia de los precios, pp. 17-30; Algunas consideraciones sobre la historia de precios en la América colonial, pp. 31-44. 
 
 - Fecha y hora de entrega tope: 13 de septiembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 600-800 palabras.
@@ -17,9 +17,9 @@ Resumen de los capítulos de [Klein & Egerman y Coatsworth (1990)](https://nigel
 Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
-Coatsworth, J. H. (1990). Algunas consideraciones sobre la historia de precios en la América colonial. En L. Johnson & E. Tandeter (Eds.), Economías coloniales. Precios y salarios en América Latina, siglo XVIII (pp. 31–44). Fondo de Cultura Economica.
-
 Klein, H. S., & Engerman, S. J. (1990). Métodos y significados en la historia de los precios. En L. Johnson & E. Tandeter (Eds.), Economías coloniales. Precios y salarios en América Latina, siglo XVIII (pp. 17–30). Fondo de Cultura Economica.
+
+Coatsworth, J. H. (1990). Algunas consideraciones sobre la historia de precios en la América colonial. En L. Johnson & E. Tandeter (Eds.), Economías coloniales. Precios y salarios en América Latina, siglo XVIII (pp. 31–44). Fondo de Cultura Economica.
 ~~~
 
 Fecha de publicación de Tarea: 8 de septiembre de 2021.
