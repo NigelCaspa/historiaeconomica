@@ -6,6 +6,24 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 14
+Resumen del capítulo de [Marichal (2017)](https://nigelcaspa.github.io/historiaeconomica/pdf/2017-Marichal-moneda.pdf): El peso de plata hispanoamericano como moneda universal del antiguo régimen (siglox XVI a XVIII), pp. 37-75. 
+
+- Fecha y hora de entrega tope: 15 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Marichal, C. (2017). El peso de plata hispanoamericano como moneda universal del antiguo régimen (siglox XVI a XVIII). En C. Marichal & S. Topik (Eds.), De la plata a la cocaína: Cinco siglos de historia económica de América Latina, 1500-2000 (pp. 37–75). El Colegio de México / FCE.
+~~~
+
+Fecha de publicación de Tarea: 13 de septiembre de 2021.
+
+-----------------
+
 ## Tarea 13
 Resumen de los capítulos de [Klein & Egerman y Coatsworth (1990)](https://nigelcaspa.github.io/historiaeconomica/pdf/1990_johnson&tandeter-economíascoloniales-precios.pdf): Métodos y significados en la historia de los precios, pp. 17-30; Algunas consideraciones sobre la historia de precios en la América colonial, pp. 31-44. 
 
