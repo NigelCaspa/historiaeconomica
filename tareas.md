@@ -14,7 +14,7 @@ Resumen de la conferencia de [Prados de la Escosura (2009)](https://nigelcaspa.g
 - Extensión máxima del resumen: 300-500 palabras.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
-- Enviar a [whatsapp del docente](79699728).
+- Enviar a [whatsapp del docente](79699728): 79699728.
 Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
