@@ -6,6 +6,26 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 16
+Resumen de la conferencia de [Prados de la Escosura (2009)](https://nigelcaspa.github.io/historiaeconomica/pdf/2009_prados-de-la-escosura-hispanoamerica.pdf): Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870): pp. 389-407.
+
+
+- Fecha y hora de entrega tope: 22 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728).
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Prados de la Escosura, L. (2009). Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870). En Las independencias hispanoamericanas. Interpretaciones 200 años después. Editorial Norma. pp. 389-407.
+
+~~~
+
+Fecha de publicación de Tarea: 20 de septiembre de 2021.
+
+-----------------
+
 ## Tarea 15
 Resumen de la conferencia de [Marichal (2021)](https://youtu.be/ncO3tw1Mpfs): Primeros bancos, Estados y Guerra en América Latina, 1860-1878.
 
@@ -22,7 +42,7 @@ Marichal, C. (2021). Primeros bancos, Estados y Guerra en América Latina, 1860-
 
 Fecha de publicación de Tarea: 17 de septiembre de 2021.
 
------------------
+
 
 ## Tarea 14
 Resumen del capítulo de [Marichal (2017)](https://nigelcaspa.github.io/historiaeconomica/pdf/2017-Marichal-moneda.pdf): El peso de plata hispanoamericano como moneda universal del antiguo régimen (siglox XVI a XVIII), pp. 37-75. 
