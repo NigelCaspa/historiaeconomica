@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 ## Tarea 16
-Resumen de la conferencia de [Prados de la Escosura (2009)](https://nigelcaspa.github.io/historiaeconomica/pdf/2009_prados-de-la-escosura-hispanoamerica.pdf): Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870): pp. 389-407.
+Resumen del artículo de [Prados de la Escosura (2009)](https://nigelcaspa.github.io/historiaeconomica/pdf/2009_prados-de-la-escosura-hispanoamerica.pdf): Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870): pp. 389-407.
 
 
 - Fecha y hora de entrega tope: 22 de septiembre de 2021, Hrs. 16:29.
