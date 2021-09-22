@@ -6,6 +6,27 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 17
+Resumen de los textos de [Rojas (1916)](https://nigelcaspa.github.io/historiaeconomica/pdf/1916-casto-rojas-administracion-financiera.pdf) y [Coatsworth (1993)](https://nigelcaspa.github.io/historiaeconomica/pdf/1993-Coatsworth-hipotesis-costes-beneficios-opt.pdf): capítulo V: La administración financiera (pp.61-69); La independencia latinoamericana: hipótesis sobre los costes y beneficios (pp.17-27) 
+
+
+- Fecha y hora de entrega tope: 27 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 600-800 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Coatsworth, J. H. (1993). La independencia latinoamericana: Hipótesis sobre los costes y beneficios. En L. Prados de la Escosura & S. Amaral (Eds.), La independencia americana: Consecuencias económicas (pp. 17–27). Alianza Editorial.
+
+Rojas, C. (1916). La administración financiera. En Historia Financiera de Bolivia (pp. 61–69). Talleres Gráficos “Marinoni” de Andrés Chiocchetti.
+~~~
+
+Fecha de publicación de Tarea: 22 de septiembre de 2021.
+
+-----------------
+
 ## Tarea 16
 Resumen del artículo de [Prados de la Escosura (2009)](https://nigelcaspa.github.io/historiaeconomica/pdf/2009_prados-de-la-escosura-hispanoamerica.pdf): Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870): pp. 389-407.
 
