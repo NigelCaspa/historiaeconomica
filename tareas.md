@@ -6,8 +6,29 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 18
+Resumen del artículo [Gelman (2008)](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_gelman-la-gran-divergencia.pdf): La Gran Divergencia. Las economías regionales en Argentina después de la Independencia
+
+
+- Fecha y hora de entrega tope: 29 de septiembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Jorge Gelman (2008). La Gran Divergencia. Las economías regionales en Argentina después de la Independencia. En IX Congreso de la AEHE, Murcia 2008
+~~~
+
+Fecha de publicación de Tarea: 27 de septiembre de 2021.
+
+-----------------
+
 ## Tarea 17
-Resumen de los textos de [Rojas (1916)](https://nigelcaspa.github.io/historiaeconomica/pdf/1916-casto-rojas-administracion-financiera.pdf) y [Coatsworth (1993)](https://nigelcaspa.github.io/historiaeconomica/pdf/1993-Coatsworth-hipotesis-costes-beneficios-opt.pdf): capítulo V: La administración financiera (pp.61-69); La independencia latinoamericana: hipótesis sobre los costes y beneficios (pp.17-27) 
+Resumen de los textos de [Rojas (1916)](https://nigelcaspa.github.io/historiaeconomica/pdf/1916-casto-rojas-administracion-financiera.pdf) y [Coatsworth (1993)](https://nigelcaspa.github.io/historiaeconomica/pdf/1993-Coatsworth-hipotesis-costes-beneficios-opt.pdf): capítulo V: La a
+
+dministración financiera (pp.61-69); La independencia latinoamericana: hipótesis sobre los costes y beneficios (pp.17-27) 
 
 
 - Fecha y hora de entrega tope: 27 de septiembre de 2021, Hrs. 16:29.
