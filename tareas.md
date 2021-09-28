@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 ## Tarea 18
-Resumen del artículo [Gelman (2008)](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_gelman-la-gran-divergencia.pdf): La Gran Divergencia. Las economías regionales en Argentina después de la Independencia
+Resumen del artículo de [Gelman (2008)](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_gelman-la-gran-divergencia.pdf): La Gran Divergencia. Las economías regionales en Argentina después de la Independencia
 
 
 - Fecha y hora de entrega tope: 29 de septiembre de 2021, Hrs. 16:29.
