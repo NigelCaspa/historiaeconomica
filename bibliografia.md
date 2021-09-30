@@ -18,6 +18,8 @@ Acemoglu, D., Robinson, J. A., & García Madera, M. (2014). Claves para comprend
 
 Aillón Soria, E. (2015). Producción y circulación de moneda en Charcas/Alto Perú, 1770-1825. En *Historia monetaria de Bolivia* (Vol. 1, pp. 116–164). Banco Central de Bolivia.
 
+Anónimo. (1994). [Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la nación por un aldeano hijo de ella. Año de 1830](https://nigelcaspa.github.io/historiaeconomica/pdf/1830-bosquejo-riqueza.pdf). En A. M. Lema Garret (Ed.), Bosquejo del Estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830 (pp. 15–130). Plural Editores - FHCE-UMSA.
+
 Arbona, J. M. (2020). The ‘urbanization of water’ in La Paz, Bolivia: Historical and conceptual perspectives. En *Working Paper* (Working Paper). Agence française de développement. 
 
 Assadourian, C. S. (1982). *El sistema de la economía colonial: Mercado interno, regiones y espacio económico*. IEP.
@@ -39,6 +41,8 @@ Boldizzoni, F. (2013). *[La pobreza de Clio. Crisis y renovación en el estudio 
 Branisa, B., Peres-Cajías, J., & Caspa, N. (2020). The biological standard of living in La Paz (Bolivia), 1880s–1920s: Persistent stagnation and inequality. *Economics & Human Biology*, *37*, 100849. 
 
 Calderón Jemio, R. J. (1991). Conflictos sociales en el altiplano paceño entre 1830 y 1860. *Data Revista del Instituto de Estudios Andinos y Amazónicos*, *1*, 146–157.
+
+Calderón Jemio, R. (2003). [Algo más sobre el “Aldeano” de las primeras décadas republicanas](https://nigelcaspa.github.io/historiaeconomica/pdf/2003-calderon-algo-mas-aldeano.pdf). Retornos, 3, 5–16.
 
 Cárdenas, E., Ocampo, J. A., & Thorp, R. (Eds.). (2003). *La era de las exportaciones latinoamericanas: De fines del siglo XIX a principios del XX* (1. ed). Fondo de Cultura Económica.
 

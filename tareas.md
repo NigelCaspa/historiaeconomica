@@ -18,7 +18,7 @@ Resumen del Bosquejo de [El Aldeano (1830)](https://nigelcaspa.github.io/histori
 Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
-Anónimo (1994 [1830]). Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830. Colección Academia, 2. La Paz: Plural Editores - FHCE - UMSA.
+Anónimo. (1994). Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la nación por un aldeano hijo de ella. Año de 1830. En A. M. Lema Garret (Ed.), Bosquejo del Estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830 (pp. 15–130). Plural Editores - FHCE-UMSA.
 ~~~
 
 Fecha de publicación de Tarea: 30 de septiembre de 2021.
