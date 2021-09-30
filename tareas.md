@@ -6,6 +6,27 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 19
+Resumen del Bosquejo de [El Aldeano (1830)](https://nigelcaspa.github.io/historiaeconomica/pdf/1830-bosquejo-riqueza.pdf): Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830, pp. 15-130.
+
+
+- Fecha y hora de entrega tope: 4 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Anónimo (1994 [1830]). Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830. Colección Academia, 2. La Paz: Plural Editores - FHCE - UMSA.
+~~~
+
+Fecha de publicación de Tarea: 30 de septiembre de 2021.
+
+-----------------
+
+
+
 ## Tarea 18
 Resumen del artículo de [Gelman (2008)](https://nigelcaspa.github.io/historiaeconomica/pdf/2008_gelman-la-gran-divergencia.pdf): La Gran Divergencia. Las economías regionales en Argentina después de la Independencia
 
