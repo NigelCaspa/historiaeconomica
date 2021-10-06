@@ -158,7 +158,7 @@ Pomeranz, K. (2000). *The great divergence: China, Europe, and the making of the
 
 Povea, I. (2020). Mujeres y minería en la América colonial: Una introducción. *Chronica Nova. Revista de Historia Moderna de la Universidad de Granada*, *46*. 
 
-Prado Robles, G. A. (1997). Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870. En *El siglo XIX Bolivia y América Latina* (pp. 299–327). Muela del Diablo.
+Prado Robles, G. A. (1997). Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870. En [*El siglo XIX Bolivia y América Latina*](https://nigelcaspa.github.io/historiaeconomica/pdf/1997_el_siglo_XIX.pdf) (pp. 299–327). IFEA - Coordinadora de Historia - Muela del Diablo.
 
 Prados de la Escosura, L. (2009). Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870). En *Las independencias hispanoamericanas. Interpretaciones 200 años después*. Editorial Norma. 
 

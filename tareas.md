@@ -6,6 +6,27 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+
+## Tarea 20
+Resumen del capítulo de [Prado Robles (1997)](https://nigelcaspa.github.io/historiaeconomica/pdf/1997_el_siglo_XIX.pdf): Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870, pp. 277-304.
+
+
+- Fecha y hora de entrega tope: 11 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Prado Robles, G. A. (1997). Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870. En El siglo XIX Bolivia y América Latina (pp. 299–327). IFEA - Coordinadora de Historia - Muela del Diablo.
+~~~
+
+Fecha de publicación de Tarea: 06 de octubre de 2021.
+
+-----------------
+
+
 ## Tarea 19
 Resumen del Bosquejo de [El Aldeano (1830)](https://nigelcaspa.github.io/historiaeconomica/pdf/1830-bosquejo-riqueza.pdf): Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830, pp. 15-130.
 
