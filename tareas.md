@@ -7,6 +7,25 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 
+## Tarea 21
+Resumen de una sección del capítulo de [Huber Abendroth (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2001-deuda-externa.pdf): La deuda pública externa y sus renegociaciones entre 1875 y el arreglo *ad referendum*, pp. 25-54.
+
+
+- Fecha y hora de entrega tope: 13 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Huber Abendroth, H. (2001). La deuda pública externa y sus renegociaciones entre 1875 y el arreglo ad referendum de 1948. En La deuda externa de Bolivia: 125 años de renegociaciones y ¿cuántos más? (pp. 25–194). CEDLA.
+~~~
+
+Fecha de publicación de Tarea: 11 de octubre de 2021.
+
+-----------------
+
 ## Tarea 20
 Resumen del capítulo de [Prado Robles (1997)](https://nigelcaspa.github.io/historiaeconomica/pdf/1997_el_siglo_XIX.pdf): Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870, pp. 277-304.
 
