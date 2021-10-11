@@ -8,7 +8,7 @@ share-img: /assets/img/todo.jpg
 ---
 
 ## Tarea 21
-Resumen de una sección del capítulo de [Huber Abendroth (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2001-deuda-externa-recortado.pdf): La deuda pública externa y sus renegociaciones entre 1875 y el arreglo *ad referendum*, pp. 25-54.
+Resumen de una sección del capítulo de [Huber Abendroth (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2001-deuda-externa.pdf): La deuda pública externa y sus renegociaciones entre 1875 y el arreglo *ad referendum*, pp. 25-54.
 
 
 - Fecha y hora de entrega tope: 13 de octubre de 2021, Hrs. 16:29.
