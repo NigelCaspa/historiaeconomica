@@ -6,6 +6,25 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 22
+Resumen del libro de [Rodríguez Ostria (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2021-rodriguez-acumulacion.pdf): La acumulación originaria; La articulación feudal capitalista; Los límites de la acumulación originaria; Conclusiones, pp. 95-169.
+
+
+- Fecha y hora de entrega tope: 18 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Rodríguez Ostria, G. (2021). La acumulación originaria de capital en Bolivia 1825-1885. Ensayo sobre la articulación feudal-capitalista. Plural Editores.
+~~~
+
+Fecha de publicación de Tarea: 13 de octubre de 2021.
+
+-----------------
+
 
 ## Tarea 21
 Resumen de una sección del capítulo de [Huber Abendroth (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2001-deuda-externa-opt.pdf): La deuda pública externa y sus renegociaciones entre 1875 y el arreglo *ad referendum*, pp. 25-54.
