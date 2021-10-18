@@ -6,6 +6,24 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 23
+Resumen del artículo de [Arana (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-bolivia-escenario.pdf): La minería de la plata en Potosí (1872-1900): logros y avatares, pp. 171-199.
+
+
+- Fecha y hora de entrega tope: 20 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Arana Santander, E. G. (2016). La minería de la plata en Potosí (1872-1900): Logros y avatares. En Bolivia: Escenarios en transformación. Artículos sobre política, cultura y economía (pp. 171–199). CIS - Vicepresidencia del Estado Plurinacional de Bolivia.
+~~~
+
+Fecha de publicación de Tarea: 18 de octubre de 2021.
+
+-----------------
 ## Tarea 22
 Resumen del libro de [Rodríguez Ostria (2001)](https://nigelcaspa.github.io/historiaeconomica/pdf/2021-rodriguez-acumulacion.pdf): La acumulación originaria; La articulación feudal capitalista; Los límites de la acumulación originaria; Conclusiones, pp. 95-169.
 
