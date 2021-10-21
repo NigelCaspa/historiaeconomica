@@ -6,6 +6,24 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 24
+Resumen del capítulo 1 del libro de [Rodríguez Ostria (2014)](https://nigelcaspa.github.io/historiaeconomica/pdf/2014_rodríguez-ostria-capitalismo-modernización-resistencia.pdf): Capitalismo, mercado de trabajo y cultura obrera, 1825-1900, pp. 33-69.
+
+
+- Fecha y hora de entrega tope: 25 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Rodríguez Ostria, G. (2014). "Capitalismo, mercado de trabajo y cultura obrera, 1825-1900". En *Capitalismo, modernización y resistencia popilar, 1825-1952*, CIS - Vicepresidencia del Estado Plurinacional de Bolivia, pp. 33-69.
+~~~
+
+Fecha de publicación de Tarea: 21 de octubre de 2021.
+
+
 ## Tarea 23
 Resumen del artículo de [Arana (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-bolivia-escenario.pdf): La minería de la plata en Potosí (1872-1900): logros y avatares, pp. 171-199.
 
