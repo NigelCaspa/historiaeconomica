@@ -6,7 +6,7 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
-## Tarea 24
+## Tarea 25
 Resumen del artículo de [Contreras (2011)](https://nigelcaspa.github.io/historiaeconomica/pdf/2011-contreras-menos-plata-mas-papas.pdf): Menos plata pero más papas: consecuencias económicas de la independencia en el Perú, 1825-1900.
 
 
