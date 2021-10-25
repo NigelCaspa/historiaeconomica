@@ -7,6 +7,23 @@ thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
 ## Tarea 24
+Resumen del artículo de [Contreras (2011)](https://nigelcaspa.github.io/historiaeconomica/pdf/2011-contreras-menos-plata-mas-papas.pdf): Menos plata pero más papas: consecuencias económicas de la independencia en el Perú, 1825-1900.
+
+
+- Fecha y hora de entrega tope: 27 de octubre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Contreras, C. (2011). Menos plata pero más papas: Consecuencias económicas de la independencia en el Perú. Histórica, 35(2), 101–132.
+~~~
+
+Fecha de publicación de Tarea: 25 de octubre de 2021.
+
+## Tarea 24
 Resumen del capítulo 1 del libro de [Rodríguez Ostria (2014)](https://nigelcaspa.github.io/historiaeconomica/pdf/2014_rodríguez-ostria-capitalismo-modernización-resistencia.pdf): Capitalismo, mercado de trabajo y cultura obrera, 1825-1900, pp. 33-69.
 
 
