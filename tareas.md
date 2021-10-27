@@ -6,6 +6,24 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+
+## Tarea 26
+Resumen del capítulo 2 del libro de [Cushman (2018)](https://nigelcaspa.github.io/historiaeconomica/pdf/2018-cushman-guano.pdf): La edad del guano, pp. 65-130
+
+
+- Fecha y hora de entrega tope: 1 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Cushman, G. (2018). "La edad del guano". En *Los señores del guano: una historia ecológica global del Pacífico*. IEP: Lima. pp. 65-135.
+~~~
+
+Fecha de publicación de Tarea: 27 de octubre de 2021.
+
 ## Tarea 25
 Resumen del artículo de [Contreras (2011)](https://nigelcaspa.github.io/historiaeconomica/pdf/2011-contreras-menos-plata-mas-papas.pdf): Menos plata pero más papas: consecuencias económicas de la independencia en el Perú, 1825-1900.
 
