@@ -6,6 +6,22 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 27
+Resumen del prefacio del libro [Davis (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2006-mike-davis-holocaustos.pdf): Prefacio, pp. 13-35.
+
+
+- Fecha y hora de entrega tope: 3 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Davis, M. (2006). Los holocaustos de la Era Victoriana tardía: El Niño, las hambrunas y la formación del Tercer Mundo. Universitat de Valencia.
+~~~
+
+Fecha de publicación de Tarea: 1 de noviembre de 2021.
 
 ## Tarea 26
 Resumen del capítulo 2 del libro de [Cushman (2018)](https://nigelcaspa.github.io/historiaeconomica/pdf/2018-cushman-guano.pdf): La edad del guano, pp. 65-130
