@@ -6,6 +6,44 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 28
+
+Exposición y resumen grupal de los artículos de la edición facsimilar del [Censo de 1900](https://nigelcaspa.github.io/historiaeconomica/pdf/2012-articulos-censo-1900.pdf) según el siguiente orden. 
+
+| #    | Grupo                                                | Artículo                 |
+| ---- | ---------------------------------------------------- | ------------------------ |
+| 1    | Dayana Alave; Gabriel Maita; Carlos Silva            | Pilar Mendieta Parada    |
+| 2    | Gabriel Di Meglio; Rolando Saavedra; Sergio Escalera | Gustavo Rodríguez Ostria |
+| 3    | Sergio Rodríguez; Yoselin Sangüeza; Yuseff Crespo    | Carmen Beatriz Loza      |
+| 4    | Raquel Carrasco; José Peralta; Daniela Orellana      | Alison Spedding Pallet   |
+
+Puede ver la versión escaneada del Censo [aquí](https://archive.org/details/censo-poblacion-1900/mode/2up).
+
+- Fecha y hora de entrega tope: 8 de noviembre de 2021, Hrs. 16:29.
+
+- Extensión máxima del resumen: 300-500 palabras.
+
+- Formato de entrega: documento Word.
+
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+
+- Enviar a [whatsapp del docente](79699728): 79699728.
+
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+
+
+~~~
+
+Bolivia (2012). Bolivia en 1900. Edición facsimilar y estudios del Censo General de la población de la República de Bolivia. Imp. Editorial Tupac Katari-ABNB.
+
+~~~
+
+
+
+Fecha de publicación de Tarea: 1 de noviembre de 2021.
+
+
 ## Tarea 27
 Resumen del prefacio del libro [Davis (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2006-mike-davis-holocaustos.pdf): Prefacio, pp. 13-35.
 
@@ -15,7 +53,7 @@ Resumen del prefacio del libro [Davis (2016)](https://nigelcaspa.github.io/histo
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Davis, M. (2006). Los holocaustos de la Era Victoriana tardía: El Niño, las hambrunas y la formación del Tercer Mundo. Universitat de Valencia.
@@ -32,7 +70,7 @@ Resumen del capítulo 2 del libro de [Cushman (2018)](https://nigelcaspa.github.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Cushman, G. (2018). "La edad del guano". En *Los señores del guano: una historia ecológica global del Pacífico*. IEP: Lima. pp. 65-135.
@@ -49,7 +87,7 @@ Resumen del artículo de [Contreras (2011)](https://nigelcaspa.github.io/histori
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Contreras, C. (2011). Menos plata pero más papas: Consecuencias económicas de la independencia en el Perú. Histórica, 35(2), 101–132.
@@ -66,7 +104,7 @@ Resumen del capítulo 1 del libro de [Rodríguez Ostria (2014)](https://nigelcas
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Rodríguez Ostria, G. (2014). "Capitalismo, mercado de trabajo y cultura obrera, 1825-1900". En *Capitalismo, modernización y resistencia popilar, 1825-1952*, CIS - Vicepresidencia del Estado Plurinacional de Bolivia, pp. 33-69.
@@ -84,7 +122,7 @@ Resumen del artículo de [Arana (2016)](https://nigelcaspa.github.io/historiaeco
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Arana Santander, E. G. (2016). La minería de la plata en Potosí (1872-1900): Logros y avatares. En Bolivia: Escenarios en transformación. Artículos sobre política, cultura y economía (pp. 171–199). CIS - Vicepresidencia del Estado Plurinacional de Bolivia.
@@ -102,7 +140,7 @@ Resumen del libro de [Rodríguez Ostria (2001)](https://nigelcaspa.github.io/his
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Rodríguez Ostria, G. (2021). La acumulación originaria de capital en Bolivia 1825-1885. Ensayo sobre la articulación feudal-capitalista. Plural Editores.
@@ -122,7 +160,7 @@ Resumen de una sección del capítulo de [Huber Abendroth (2001)](https://nigelc
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Huber Abendroth, H. (2001). La deuda pública externa y sus renegociaciones entre 1875 y el arreglo ad referendum de 1948. En La deuda externa de Bolivia: 125 años de renegociaciones y ¿cuántos más? (pp. 25–194). CEDLA.
@@ -141,7 +179,7 @@ Resumen del capítulo de [Prado Robles (1997)](https://nigelcaspa.github.io/hist
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Prado Robles, G. A. (1997). Efectos económicos de la adulteración monetaria en Bolivia, 1830-1870. En El siglo XIX Bolivia y América Latina (pp. 299–327). IFEA - Coordinadora de Historia - Muela del Diablo.
@@ -161,7 +199,7 @@ Resumen del Bosquejo de [El Aldeano (1830)](https://nigelcaspa.github.io/histori
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Anónimo. (1994). Bosquejo del estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la nación por un aldeano hijo de ella. Año de 1830. En A. M. Lema Garret (Ed.), Bosquejo del Estado en que se halla la riqueza nacional de Bolivia con sus resultados, presentado al examen de la Nación por un Aldeano hijo de ella, Año de 1830 (pp. 15–130). Plural Editores - FHCE-UMSA.
@@ -182,7 +220,7 @@ Resumen del artículo de [Gelman (2008)](https://nigelcaspa.github.io/historiaec
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Jorge Gelman (2008). La Gran Divergencia. Las economías regionales en Argentina después de la Independencia. En IX Congreso de la AEHE, Murcia 2008
@@ -203,7 +241,7 @@ dministración financiera (pp.61-69); La independencia latinoamericana: hipótes
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Coatsworth, J. H. (1993). La independencia latinoamericana: Hipótesis sobre los costes y beneficios. En L. Prados de la Escosura & S. Amaral (Eds.), La independencia americana: Consecuencias económicas (pp. 17–27). Alianza Editorial.
@@ -224,7 +262,7 @@ Resumen del artículo de [Prados de la Escosura (2009)](https://nigelcaspa.githu
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [whatsapp del docente](79699728): 79699728.
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Prados de la Escosura, L. (2009). Hispanoamérica tras la Independencia: Un balance de su evolución económica (1820-1870). En Las independencias hispanoamericanas. Interpretaciones 200 años después. Editorial Norma. pp. 389-407.
@@ -243,7 +281,7 @@ Resumen de la conferencia de [Marichal (2021)](https://youtu.be/ncO3tw1Mpfs): Pr
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Marichal, C. (2021). Primeros bancos, Estados y Guerra en América Latina, 1860-1878. WEHIbAm-WEBINAR IN IBERO-AMERICAN ECONOMIC HISTORY.https://youtu.be/ncO3tw1Mpfs
@@ -261,7 +299,7 @@ Resumen del capítulo de [Marichal (2017)](https://nigelcaspa.github.io/historia
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Marichal, C. (2017). El peso de plata hispanoamericano como moneda universal del antiguo régimen (siglox XVI a XVIII). En C. Marichal & S. Topik (Eds.), De la plata a la cocaína: Cinco siglos de historia económica de América Latina, 1500-2000 (pp. 37–75). El Colegio de México / FCE.
@@ -279,7 +317,7 @@ Resumen de los capítulos de [Klein & Egerman y Coatsworth (1990)](https://nigel
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Klein, H. S., & Engerman, S. J. (1990). Métodos y significados en la historia de los precios. En L. Johnson & E. Tandeter (Eds.), Economías coloniales. Precios y salarios en América Latina, siglo XVIII (pp. 17–30). Fondo de Cultura Economica.
@@ -299,7 +337,7 @@ Resumen del artículo de [Tandeter & Wachtel (1991)](https://nigelcaspa.github.i
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Tandeter, E., & Wachtel, N. (1983). Precios y producción agraria. Potosí y Charcas en el siglo XVIII. Desarrollo económico, 23(90), 197–232.
@@ -317,7 +355,7 @@ Resumen del artículo de [Thompson (1991)](https://nigelcaspa.github.io/historia
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Thompson E.P. (1991)."La economía "moral" de la multitud en la Inglaterra del siglo XVIII". En *Costumbres en común*. Editorial Crítica.
@@ -335,7 +373,7 @@ Resumen del artículo de [Robins (2012)](https://nigelcaspa.github.io/historiaec
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Robins, N. A., & Hagan, N. A. (2012). Mercury production and use in colonial Andean silver production: emissions and health implications. Environmental health perspectives, 120(5), 627-631.[Traducción no oficial]
@@ -352,7 +390,7 @@ Resumen del artículo de [Quiroz (2019)](https://nigelcaspa.github.io/historiaec
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Quiroz, F. (2019). Aprendiendo juntos: Indios, negros libres y esclavos en talleres de Lima colonial. En R. Barragán, A. Villanueva, & C. Machicado (Eds.), Trabajos y trabajadores en América Latina (siglos XVI-XXI) (pp. 281–312). Vicepresidencia del Estado Plurinacional de Bolivia.
@@ -369,7 +407,7 @@ Resumen del capítulo 3 del libro de [Tandeter (1992)](https://nigelcaspa.github
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Tandeter, E. (1992). Coacción y Mercado: La minería de la plata en el Potosí colonial, 1962-1826. Siglo XXI.
@@ -386,7 +424,7 @@ Resumen de la introducción y capítulos 1 y 3 del libro de [Socolow (1991)](htt
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Socolow, S. (1999). Los mercaderes del Buenos Aires virreinal: Familia y comercio. Flores S.R.L.
@@ -404,7 +442,7 @@ Resumen del capítulo 2 del libro de [Korol y Tandeter (1999)](https://nigelcasp
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Korol, Juan Carlos, y Enrique Tandeter. Historia económica de América Latina: problemas y procesos. Buenos Aires: Fondo de Cultura Económica de Argentina, 1999.
@@ -421,7 +459,7 @@ Resumen de los capítulos 1-4 del libro de [Katrine Marçal (2016)](https://nige
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Ficha bibliográfica: 
@@ -439,7 +477,7 @@ Resumen del video de [Robert Skidelsky (2019)](https://nigelcaspa.github.io/hist
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md).
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md).
 
 ~~~
 Ficha bibliográfica: 
@@ -458,7 +496,7 @@ Resumen el artículo de [Herbert Klein (2020)](https://nigelcaspa.github.io/hist
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Ficha bibliográfica: 
@@ -479,7 +517,7 @@ de la industria en Paris (1847-1 848)" pp. 148-177.
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
 
 ~~~
 Ficha bibliográfica: 
@@ -497,7 +535,7 @@ Resumen del capítulo 1 del libro de [Boldizzoni](https://nigelcaspa.github.io/h
 - Formato de entrega: documento Word.
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
 - Enviar a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
-Para más detalles de la forma en que se debe entregrar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía](bibliografia.md)
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía](bibliografia.md)
 
 ~~~
 Ficha bibliográfica: 
