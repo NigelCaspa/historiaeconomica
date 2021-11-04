@@ -35,7 +35,7 @@ Bolivia (2012). Bolivia en 1900. Edición facsimilar y estudios del Censo Genera
 
 
 
-Fecha de publicación de Tarea: 1 de noviembre de 2021.
+Fecha de publicación de Tarea: 4 de noviembre de 2021.
 
 
 ## Tarea 27
