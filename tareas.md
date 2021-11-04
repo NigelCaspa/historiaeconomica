@@ -20,13 +20,9 @@ Exposición y resumen grupal de los artículos de la edición facsimilar del [Ce
 Puede ver la versión escaneada del Censo [aquí](https://archive.org/details/censo-poblacion-1900/mode/2up).
 
 - Fecha y hora de entrega tope: 8 de noviembre de 2021, Hrs. 16:29.
-
 - Extensión máxima del resumen: 300-500 palabras.
-
 - Formato de entrega: documento Word.
-
 - Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
-
 - Enviar a [whatsapp del docente](79699728): 79699728.
 
 Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
@@ -34,9 +30,7 @@ Para más detalles de la forma en que se debe entregar el resumen, ver [Programa
 
 
 ~~~
-
 Bolivia (2012). Bolivia en 1900. Edición facsimilar y estudios del Censo General de la población de la República de Bolivia. Imp. Editorial Tupac Katari-ABNB.
-
 ~~~
 
 
