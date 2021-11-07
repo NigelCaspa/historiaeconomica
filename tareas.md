@@ -6,6 +6,23 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Tarea 29
+Resumen del artículo de [Ragas (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-ragas-ideologos.pdf): Prefacio, pp. 14-34.
+
+
+- Fecha y hora de entrega tope: 10 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Ragas, J. (2016). Ideólogos del Leviatán. Estadística y sociedad en el Perú (1791-1876). Estudios Sociales del Estado, 2(4), 14–34.
+~~~
+
+Fecha de publicación de Tarea: 7 de noviembre de 2021.
+
 ## Tarea 28
 
 Exposición y resumen grupal de los artículos de la edición facsimilar del [Censo de 1900](https://nigelcaspa.github.io/historiaeconomica/pdf/2012-articulos-censo-1900.pdf) según el siguiente orden. 
