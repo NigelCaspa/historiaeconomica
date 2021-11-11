@@ -6,6 +6,23 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+
+## Tarea 30
+Resumen del artículo de [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-ragas-ideologos.pdf): Prefacio, pp. 14-34.
+
+- Fecha y hora de entrega tope: 15 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Peres-Cajías, J., & Carreras-Marín, A. (2019). El sector exportador en Bolivia, 1870-1950. En S. Kuntz Kicker (Ed.), La primera era exportadora reconsiderada: Una revaloración de su contribución a las economías latinoamericanas (pp. 99–141). México D.F.: El Colegio de México, Centro de Estudios Históricos.
+~~~
+
+Fecha de publicación de Tarea: 10 de noviembre de 2021.
+
 ## Tarea 29
 Resumen del artículo de [Ragas (2016)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-ragas-ideologos.pdf): Prefacio, pp. 14-34.
 
