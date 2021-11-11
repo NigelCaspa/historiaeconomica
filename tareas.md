@@ -8,7 +8,7 @@ share-img: /assets/img/todo.jpg
 ---
 
 ## Tarea 30
-Resumen del artículo de [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/2016-ragas-ideologos.pdf): Prefacio, pp. 14-34.
+Resumen del artículo de [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/2019-peres-carrera-sector-exportador-bolivia.pdf): El sector exportador en Bolivia, 1870-1950, pp. 99-141.
 
 - Fecha y hora de entrega tope: 15 de noviembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 300-500 palabras.
