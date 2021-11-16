@@ -36,7 +36,7 @@ Cada pregunta debe ser respondida con un mínimo de 600 palabras y un máximo de
 Fecha de publicación de Tarea: 15 de noviembre de 2021.
 
 ## Tarea 33
-Resumen del capítulo [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/1998-thorp-progreso-pobreza-exclusion.pdf): Crecimiento mediante deuda, desastre y reorientación después de 1973, pp. 215-255.
+Resumen del capítulo [Thorp (1998)](https://nigelcaspa.github.io/historiaeconomica/pdf/1998-thorp-progreso-pobreza-exclusion.pdf): Crecimiento mediante deuda, desastre y reorientación después de 1973, pp. 215-255.
 
 - Fecha y hora de entrega tope: 29 de noviembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 300-500 palabras.
