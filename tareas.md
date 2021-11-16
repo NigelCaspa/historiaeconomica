@@ -6,6 +6,83 @@ cover-img: /assets/img/todo.jpg
 thumbnail-img: /assets/img/todo.jpg
 share-img: /assets/img/todo.jpg
 ---
+## Planificación
+
+| #    | Fecha                      | Actividad                                                    |
+| ---- | -------------------------- | ------------------------------------------------------------ |
+| 1    | miércoles, 17 de noviembre | Resumen (Orsag); artículo censo (sistematización: resúmenes) |
+| 2    | lunes, 22 de noviembre     | Resumen (Bértola & Ocampo); artículo censo (sistematización: resúmenes) |
+| 3    | miércoles, 24 de noviembre | Artículo censo (Redacción) \[Elecciones]                      |
+| 4    | lunes, 29 de noviembre     | Resumen (Thorp); Entrega examen parcial                      |
+| 5    | miércoles, 1 de diciembre  | Entrega redacción artículo censo                             |
+| 6    | lunes, 6 de diciembre      | Entrega corrección artículo                                  |
+| 7    | miércoles, 8 de diciembre  | Segundo Turno                                                |
+
+## Examen parcial de Historia Económica
+
+Cada pregunta debe ser respondida con un mínimo de 600 palabras y un máximo de 1200.
+
+1- Cuáles son los principales debates de historia económica para el periodo colonial en América Latina?
+
+2- Cuáles son los principales debates de historia económica del proceso de independencia y los primeros 50 años de los estados nación latinoamericanos?
+
+3- Cuáles son los principales debates de historia económica del periodo denominado primera globalización para Bolivia?
+
+- Fecha y hora de entrega tope: 29 de noviembre de 2021, Hrs. 16:29.
+- Formato de entrega: documento Word.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+
+
+Fecha de publicación de Tarea: 15 de noviembre de 2021.
+
+## Tarea 33
+Resumen del capítulo [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/1998-thorp-progreso-pobreza-exclusion.pdf): Crecimiento mediante deuda, desastre y reorientación después de 1973, pp. 215-255.
+
+- Fecha y hora de entrega tope: 29 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Thorp, R. (1998). Progreso, pobreza y exclusion: Una historia economica de America Latina en el siglo XX. Washington: Banco Interamericano de Desarollo - Unión Europea.
+~~~
+
+Fecha de publicación de Tarea: 15 de noviembre de 2021.
+
+## Tarea 32
+Resumen del capítulo IV de [Bértola & Ocampo (2013)](https://nigelcaspa.github.io/historiaeconomica/pdf/2013-bertola&ocampo-desarrollo-economico.pdf): La industrialización dirigida por el Estado, pp. 170-241.
+
+- Fecha y hora de entrega tope: 22 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Bértola, L., & Ocampo, J. A. (2013). El desarrollo económico de América Latina desde la independencia. México, D.F.: Fondo de Cultura Económica.
+~~~
+
+Fecha de publicación de Tarea: 15 de noviembre de 2021.
+
+
+## Tarea 31
+Resumen del capítulo de [Orsag (2021)](https://nigelcaspa.github.io/historiaeconomica/pdf/2021-orsag-circuitos-economicos.pdf): La exportación de goma y la vida económica de los departamentos del oriente boliviano, pp. 105-124.
+
+- Fecha y hora de entrega tope: 17 de noviembre de 2021, Hrs. 16:29.
+- Extensión máxima del resumen: 300-500 palabras.
+- Formato de entrega: documento Word.
+- Estructura del resumen: identificación del problema, argumento central del texto, conclusiones y comentarios.
+- Enviar a [whatsapp del docente](79699728): 79699728.
+Para más detalles de la forma en que se debe entregar el resumen, ver [Programa](programa.md). Si tienes dudas para descargar el libro, dirígete a [Bibliografía.](bibliografia.md)
+
+~~~
+Orsag Molina, J. O. (2021). Circuitos económicos durante el auge de la goma en Bolivia (1880-1912). La Paz: Vicepresidencia del Estado Plurinacional de Bolivia - Centro de Investigaciones Sociales.
+~~~
+
+Fecha de publicación de Tarea: 15 de noviembre de 2021.
 
 ## Tarea 30
 Resumen del artículo de [Peres-Cajías & Carreras-Marín (2019)](https://nigelcaspa.github.io/historiaeconomica/pdf/2019-peres-carrera-sector-exportador-bolivia.pdf): El sector exportador en Bolivia, 1870-1950, pp. 99-141.
