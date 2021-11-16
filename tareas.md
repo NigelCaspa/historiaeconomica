@@ -52,7 +52,7 @@ Thorp, R. (1998). Progreso, pobreza y exclusion: Una historia economica de Ameri
 Fecha de publicación de Tarea: 15 de noviembre de 2021.
 
 ## Tarea 32
-Resumen del capítulo IV de [Bértola & Ocampo (2013)](https://nigelcaspa.github.io/historiaeconomica/pdf/2013-bertola&ocampo-desarrollo-economico.pdf): La industrialización dirigida por el Estado, pp. 170-241.
+Resumen del capítulo IV de [Bértola & Ocampo (2013)](https://nigelcaspa.github.io/historiaeconomica/pdf/2013-bertola&ocampo-desarrollo-economico2.pdf): La industrialización dirigida por el Estado, pp. 170-241.
 
 - Fecha y hora de entrega tope: 22 de noviembre de 2021, Hrs. 16:29.
 - Extensión máxima del resumen: 300-500 palabras.
